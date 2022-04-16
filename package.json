@@ -1,7 +1,7 @@
 {
-  "name": "Ramdani Official",
+  "name": "Daybot",
   "version": "16.0.0",
-  "description": "Base Ori by Ramdani Official",
+  "description": "Base Ori by DayatBot",
   "main": "fitur.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Ramdani Official",
+  "author": "DayatBot",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
